@@ -63,7 +63,7 @@ public class fibonachi {
         return ans ;
     }
     public static void main(String[] args) {
-        //Using Memorization Method ---Tc - 0(n) , Sc -0(n)
+        //Using Space Optimization Method ---Tc - 0(n) , Sc -0(n)
         int n = 4;
         int dp[] = new int [n+1];
         Arrays.fill(dp,-1);
