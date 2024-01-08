@@ -3,8 +3,8 @@ package DP_Striver.DP_String;
 public class Long_Com_seq_print {
 
     
-    //Question -- **Print Lowest Common sub-seqence String ****
-    //Follow up question by  Lowest Common sub-seqence
+    //Question -- **Print Longest  Common sub-seqence String ****
+    //Follow up question by  Longest  Common sub-seqence
 
     // Tabulation (Tc -0(M*N) Sc - 0(N*M))
     public static String lcs(String s1, String s2) {
