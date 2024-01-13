@@ -1,4 +1,4 @@
-package DP_Striver.Subsequence_DP;
+package Subsequence_DP;
 
 import java.util.*;
 

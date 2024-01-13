@@ -1,4 +1,4 @@
-package DP_Striver.TWO_D_DP;
+package TWO_D_DP;
 
 public class Traingle_min_path_sum {
 

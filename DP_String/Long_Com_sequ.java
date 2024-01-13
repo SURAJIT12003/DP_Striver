@@ -1,4 +1,4 @@
-package DP_Striver.DP_String;
+package DP_String;
 
 import java.util.HashMap;
 

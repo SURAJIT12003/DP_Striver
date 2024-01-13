@@ -1,4 +1,4 @@
-package DP_Striver.TWO_D_DP;
+package TWO_D_DP;
 
 public class Ninja_train {
 

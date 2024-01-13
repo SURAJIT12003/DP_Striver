@@ -1,4 +1,4 @@
-package DP_Striver.Subsequence_DP;
+package Subsequence_DP;
 
 public class Sub_Set_Sum_equal_k {
 

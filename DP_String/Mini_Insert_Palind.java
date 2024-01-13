@@ -1,5 +1,5 @@
 
-package DP_Striver.DP_String;
+package DP_String;
 
 public class Mini_Insert_Palind{
     //Question --- Minimum Insertion to change a string to Palindrome String 

@@ -1,4 +1,4 @@
-package DP_Striver.DP_String;
+package DP_String;
 
 public class Long_Com_seq_print {
 

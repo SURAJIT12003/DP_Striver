@@ -1,4 +1,4 @@
-package DP_Striver.DP_String;
+package DP_String;
 
 public class Shortest_com_Super_seq {
 

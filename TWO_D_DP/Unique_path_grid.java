@@ -1,4 +1,4 @@
-package DP_Striver.TWO_D_DP;
+packageTWO_D_DP;
 
 import java.util.Arrays;
 
