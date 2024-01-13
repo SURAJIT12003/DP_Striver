@@ -1,4 +1,4 @@
-package DP_Striver;
+package One_d_DP;
 
 public class Min_cost_Climb_Stair {
 

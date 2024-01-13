@@ -1,4 +1,4 @@
-package DP_Striver;
+package One_d_DP;
 
 import java.util.*;
 
