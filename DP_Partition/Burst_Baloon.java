@@ -5,7 +5,8 @@ import java.util.ArrayList;
 public class Burst_Baloon {
     // same as MCM
 
-    // Memorization ----> Time - O(N*N*N) , Space -  O(N*N)
+    // Memorization method ----> Time Complexity - O(N*N*N) , Space complexity -
+    // O(N*N) ,
     public int rec(int i, int j, ArrayList<Integer> arr, int dp[][]) {
         if (i > j) {
             return 0;
@@ -25,7 +26,7 @@ public class Burst_Baloon {
         return max;
     }
 
-    // Tabulation ----> Time - O(N*N*N) , Space -  O(N*N)
+    // Tabulation ----> Time - O(N*N*N) , Space - O(N*N)
     public int maxCoins(int[] nums) {
         ArrayList<Integer> arr = new ArrayList<>();
         for (int v : nums) {
@@ -36,8 +37,6 @@ public class Burst_Baloon {
         arr.add(1);
         int n = arr.size();
         int dp[][] = new int[n][n];
-
-       
 
         for (int i = n - 2; i >= 1; i--) {
 
