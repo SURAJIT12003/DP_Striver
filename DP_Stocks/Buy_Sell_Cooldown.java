@@ -1,7 +1,7 @@
  package DP_Stocks;
 
 public class Buy_Sell_Cooldown {
-    //This is problem same as Buy_sell_Stock_2
+    //This is problem same as Buy_sell_Stock_2 version
     public static int recur(int i, int buy ,int price [],int dp[][]){
         if(i>=price.length){
             return 0;
